@@ -1,0 +1,12 @@
+.header{
+    color:black;
+    /*font-family:Georgia, 'Times New Roman', Times, serif; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-weight: 600;
+}
+

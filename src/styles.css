@@ -1,1 +1,28 @@
-/* You can add global styles to this file, and also import other style files */
+.shop{
+    font-weight: 700;
+    font-size: 25px;
+    -webkit-text-stroke-width: 1px;
+            -webkit-text-stroke-color: rgb(26, 4, 124);
+}
+
+.JDW{
+    height:350px;
+    width:80%;
+
+  
+  }
+  
+  .products{
+    height:300px;
+    width:90%;
+  
+}/* You can add global styles to this file, and also import other style files */
+.pinterest{
+  color: red;
+}
+.facebook{
+  background-color: blue;
+}
+.twitter{
+  background-color: lightblue;
+}
